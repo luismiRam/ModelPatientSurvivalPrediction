@@ -17,6 +17,8 @@ Por ultimo se comprueva la conexion a la API de Kaggle
 
 
 
+VIDEO:
+https://www.youtube.com/watch?v=HwKt2F30ZFM&ab_channel=LINAISABELLONDO%C3%91OJIMENEZ
 
 
 
